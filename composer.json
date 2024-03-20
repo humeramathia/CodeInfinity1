@@ -1,0 +1,17 @@
+{
+    "name": "humer/code-infinity1",
+    "autoload": {
+        "psr-4": {
+            "Humer\\CodeInfinity1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Humi1211",
+            "email": "humeramathia1211@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.17"
+    }
+}
